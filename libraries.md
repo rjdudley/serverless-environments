@@ -1,3 +1,5 @@
+https://learn.microsoft.com/en-us/azure/databricks/release-notes/serverless/client-one
+
 | Library              | Version | PyPI Project Link                  | Description                                                                 |
 |----------------------|---------|------------------------------------|-----------------------------------------------------------------------------|
 | anyio                | 3.5.0   | https://pypi.org/project/anyio/    | High level compatibility layer for multiple asynchronous event loop implementations. |
